@@ -1,1 +1,1 @@
-update file diff = idea2
+update file diff = idea
